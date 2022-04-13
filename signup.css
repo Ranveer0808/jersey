@@ -1,0 +1,39 @@
+*
+{
+	margin: 0;
+	padding:s 0;
+	font-family: sans-serif;
+}
+body
+{
+	background-image: url(harvest-4858574.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100vh; 
+}
+.container
+{
+	width: 40%;
+	background-color: white;
+	text-align: center;
+	margin: auto;
+	margin-top: 5%;
+	border-radius: 10px;
+	overflow: hidden;
+	padding: 10px;
+}
+.signupbtn
+{
+	background-color: rgb(65,105,225);
+	color: white;
+
+}
+.hr
+{
+	margin-top: 10px;
+}
+.signup
+{
+	background-color: #0FD24B;
+}
